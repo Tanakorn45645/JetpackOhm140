@@ -1,0 +1,88 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">ITBI Alumni</string>
+    <string name="about">ข้อมูล</string>
+    <string name="email">Email:</string>
+    <string name="tel">Tel:</string>
+    <string name="expand_button_content_description">expand_button_content_description</string>
+    <string name="P1">Adriana C. Ocampo Uria</string>
+    <string name="P2">Albert Einstein</string>
+    <string name="P3">Anna K. Behrensmeyer</string>
+    <string name="P4">Blaise Pascal</string>
+    <string name="P5">Caroline Herschel</string>
+    <string name="P6">Cecilia Payne-Gaposchkin</string>
+    <string name="P7">Chien-Shiung Wu</string>
+    <string name="P8">Dorothy Hodgkin</string>
+    <string name="P9">Edmond Halley</string>
+    <string name="P10">Edwin Powell Hubble</string>
+    <string name="P11">p11:</string>
+    <string name="P12">p12:</string>
+    <string name="P13">p13:</string>
+    <string name="P14">p14:</string>
+    <string name="P15">p15:</string>
+    <string name="P16">p16:</string>
+    <string name="P17">p17:</string>
+    <string name="P18">p18:</string>
+    <string name="P19">p19:</string>
+    <string name="P20">p20:</string>
+    <string name="P21">p21:</string>
+    <string name="P22">p22:</string>
+    <string name="P23">p23:</string>
+    <string name="P24">p24:</string>
+    <string name="P25">p25:</string>
+    <string name="P26">p26:</string>
+    <string name="P27">p27:</string>
+    <string name="P28">p28:</string>
+    <string name="P29">p29:</string>
+    <string name="P30">p30:</string>
+    <string name="P31">p31:</string>
+    <string name="P32">p32:</string>
+    <string name="P1_Des">Adriana C. Ocampo Uria</string>
+    <string name="P2_Des">Albert Einstein</string>
+    <string name="P3_Des">Anna K. Behrensmeyer</string>
+    <string name="P4_Des">Blaise Pascal</string>
+    <string name="P5_Des">Caroline Herschel</string>
+    <string name="P6_Des">Cecilia Payne-Gaposchkin</string>
+    <string name="P7_Des">Chien-Shiung Wu</string>
+    <string name="P8_Des">Dorothy Hodgkin</string>
+    <string name="P9_Des">Edmond Halley</string>
+    <string name="P10_Des">Edwin Powell Hubble</string>
+    <string name="P11_Des">p11_Des:</string>
+    <string name="P12_Des">p12_Des:</string>
+    <string name="P13_Des">p13_Des:</string>
+    <string name="P14_Des">p14_Des:</string>
+    <string name="P15_Des">p15_Des:</string>
+    <string name="P16_Des">p16_Des:</string>
+    <string name="P17_Des">p17_Des:</string>
+    <string name="P18_Des">p18_Des:</string>
+    <string name="P19_Des">p19_Des:</string>
+    <string name="P20_Des">p20_Des:</string>
+    <string name="P21_Des">p21_Des:</string>
+    <string name="P22_Des">p22_Des:</string>
+    <string name="P23_Des">p23_Des:</string>
+    <string name="P24_Des">p24_Des:</string>
+    <string name="P25_Des">p25_Des:</string>
+    <string name="P26_Des">p26_Des:</string>
+    <string name="P27_Des">p27_Des:</string>
+    <string name="P28_Des">p28_Des:</string>
+    <string name="P29_Des">p29_Des:</string>
+    <string name="P30_Des">p30_Des:</string>
+    <string name="P31_Des">p31_Des:</string>
+    <string name="P32_Des">p32_Des:</string>
+
+
+</resources>
